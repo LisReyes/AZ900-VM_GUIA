@@ -103,4 +103,15 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 
 </ul>
 
+### PASO 3: Conexión y verificación de nuestra VM
+  <li> Descargamos el archivo RDP
 
+ este nos servira para establecer conexion con nuestra VM recordando las credenciales asignadas
+ 
+ 
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174500137-17686cfe-c3a1-44ae-9189-7fbe0fde7f6e.png)</li>
+  
+
+</ul>
