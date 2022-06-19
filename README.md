@@ -48,12 +48,8 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 </ul>
 
 ## Pestaña: Advancend (Opciones avanzadas)
-<ul> <li> Dejamos las opciones predeterminadas de Azure 
-  
-  
-  </li>
-  
-     <li> ![image](https://user-images.githubusercontent.com/99461145/174499457-9e2498d5-57f9-452c-9d77-486b639ce1da.png) </li>
+<ul> <li> Dejamos las opciones predeterminadas de Azure </li>
+          <li> ![image](https://user-images.githubusercontent.com/99461145/174499457-9e2498d5-57f9-452c-9d77-486b639ce1da.png) </li>
 </ul>
 
 ## Pestaña: Tags (Etiquetas)
