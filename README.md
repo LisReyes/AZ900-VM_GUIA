@@ -132,4 +132,41 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 
  .</li>
      <li>![image](https://user-images.githubusercontent.com/99461145/174500231-ed054225-dd85-45f2-8036-bcfa1847e8f4.png) </li>
+     
+     <li> Una vez ingresemos correctamente neustras credenciales nos mostrara la siguiente pantalla, que es nuestra Máquina Virtual, podemos navegar en INternet, crear archivos descargar programas, etc.
+ 
+ 
+ 
+
+ .</li>
+     <li>![image](https://user-images.githubusercontent.com/99461145/174500302-4d1cdfc9-1d2a-482a-855d-4dd68519e5f2.png) </li>
+</ul>
+
+
+### Paso 4: Eliminación del recurso (Máquina Virtual) 
+
+<ul> <li> Nos dirigimos al Home de Azure
+
+ Le damos clic en Grupo de recursos
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174500330-1a51e715-2667-450e-b7e8-f4f5e8149482.png) </li>
+  
+  <li> Le damos clic en nuestra Máquina Virtual.
+
+ Le damos clic en Eliminar grupo de recursos
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174500357-b1760ca4-0e8d-4cec-9206-3887fa95756d.png) </li>
+  
+  <li> Comenzamos a explorar nuestra Máquina Virtual para esto:
+
+ Le damos clic en conectar
+ 
+ Luego en RDP
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499990-db845cec-c53b-47a3-a592-c3c45fae101a.png) </li>
+  
+
 </ul>
