@@ -1,2 +1,4 @@
-![image](https://user-images.githubusercontent.com/99461145/174494376-4dda292c-2593-4c05-873d-58eefc9febe2.png)
+Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
+Se detallara paso a paso para que sea de fácil comprensión.
+
 
