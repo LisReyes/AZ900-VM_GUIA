@@ -10,7 +10,7 @@ Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
 
 ## Paso 2
 ### Ingreso de datos
-<br> Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
+Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 <ol>
   <li> Nos aseguramos que nuestra suscripcion sea de tipo student </li>
   <li> Creamos un grupo de recursos, este contendra nuestra máquina virtual dentro de la nube, le asignamos 'lab01-dr' </li>
@@ -18,11 +18,13 @@ Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
   <li> La región seleccionada es (US) Central US </li>
   <li> Las opciones de disponibilidad son para tener respaldada nuestra información en otro centro de datos en caso de que el primero falle,pero debido a que solo es una prueba no los requerimos </li>
   <li> Mantenemos la seguridad en Estándar </li>
-  <li> En imágen seleccionamos Windows Server 2019 Datacenter - Gen2. El cual sera nuestro sistema operativo con el que trabajara la VM </li> </ol>
+  <li> En imágen seleccionamos Windows Server 2019 Datacenter - Gen2. El cual sera nuestro sistema operativo con el que trabajara la VM </li>
   ![image](https://user-images.githubusercontent.com/99461145/174498561-85163f4c-005d-4526-9b85-0a516c2ec8d9.png)
-  <li> Seleccionamos el tamaño de nuestra máquina virtual para eso podemos ir a la pestaña 'ver todos los tamaños' y decidir el que nos convenga, para esta situación me decidí por el 'DS2' que esta dentro de 'Tamaños de generaciones anteriores', asegurandonos que estemos en la región de Central US</li>
+  <li> Seleccionamos el tamaño de nuestra máquina virtual para eso podemos ir a la pestaña 'ver todos los tamaños' y decidir el que nos convenga, para esta situación me decidí por el 'DS2' que esta dentro de 'Tamaños de generaciones anteriores', asegurandonos que estemos en la región de Central US </li>
   ![image](https://user-images.githubusercontent.com/99461145/174498620-80c5e17e-940a-4655-be3d-bd1daffe4096.png)
-  
+  <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL! </li>
+  <img url = '![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)'>
+
 
 
 
