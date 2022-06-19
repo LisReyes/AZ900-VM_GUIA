@@ -11,8 +11,8 @@ Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
 ## Paso 2
 ### Ingreso de datos
 Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
-<blockquote>
-  <p> Nos aseguramos que nuestra suscripcion sea de tipo student </p>
+<ul>
+  <li> Nos aseguramos que nuestra suscripcion sea de tipo student </p>
   <li> Creamos un grupo de recursos, este contendra nuestra máquina virtual dentro de la nube, le asignamos 'lab01-dr' </li>
   <li> Nombramos nuestra máquina virtual como 'mv01-dr' </li>
   <li> La región seleccionada es (US) Central US </li>
@@ -22,7 +22,7 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   <li> Seleccionamos el tamaño de nuestra máquina virtual para eso podemos ir a la pestaña 'ver todos los tamaños' y decidir el que nos convenga, para esta situación me decidí por el 'DS2' que esta dentro de 'Tamaños de generaciones anteriores', asegurandonos que estemos en la región de Central US </li>
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL!</li>
   <li> Aceptamos para usar la licencia existente de Windows Server </li>
-</blockquote>
+</ul>
 # Pestaña: Disks(Discos)
 
 
