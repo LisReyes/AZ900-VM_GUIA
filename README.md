@@ -23,11 +23,12 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL!</li>
   <li> Aceptamos para usar la licencia existente de Windows Server </li>
   ![image](https://user-images.githubusercontent.com/99461145/174499178-c2cf47a0-0867-472c-ad23-62102f74c648.png)
+  ![image](https://user-images.githubusercontent.com/99461145/174499197-c89ae70a-e0a9-453d-8d84-7c737e186908.png)
 
 </ul>
 
 
 ## Pestaña: Disks(Discos)
-
+<ul> Dejamos los datos predeterminado del disco duro </ul>
 
 
