@@ -22,11 +22,12 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   <li> Seleccionamos el tamaño de nuestra máquina virtual para eso podemos ir a la pestaña 'ver todos los tamaños' y decidir el que nos convenga, para esta situación me decidí por el 'DS2' que esta dentro de 'Tamaños de generaciones anteriores', asegurandonos que estemos en la región de Central US </li>
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL!</li>
   <li> Aceptamos para usar la licencia existente de Windows Server </li>
+  ![image](https://user-images.githubusercontent.com/99461145/174499178-c2cf47a0-0867-472c-ad23-62102f74c648.png)
+
 </ul>
-![image](https://user-images.githubusercontent.com/99461145/174499164-c774543a-0d49-44eb-a867-1f3ccf3827f7.png)
 
 
-# Pestaña: Disks(Discos)
+## Pestaña: Disks(Discos)
 
 
 
