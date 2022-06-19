@@ -12,7 +12,7 @@ Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
 ### Ingreso de datos
 Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 <ul>
-  <li> Nos aseguramos que nuestra suscripcion sea de tipo student </p>
+  <li> Nos aseguramos que nuestra suscripcion sea de tipo student </li>
   <li> Creamos un grupo de recursos, este contendra nuestra máquina virtual dentro de la nube, le asignamos 'lab01-dr' </li>
   <li> Nombramos nuestra máquina virtual como 'mv01-dr' </li>
   <li> La región seleccionada es (US) Central US </li>
@@ -23,6 +23,7 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL!</li>
   <li> Aceptamos para usar la licencia existente de Windows Server </li>
 </ul>
+
 # Pestaña: Disks(Discos)
 
 
