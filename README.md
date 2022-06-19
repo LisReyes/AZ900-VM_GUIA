@@ -84,18 +84,13 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 . </li>
      <li> ![image](https://user-images.githubusercontent.com/99461145/174499829-49c0b4c5-5fe2-4cdd-bd73-4090ab3dcef3.png) </li>
   
-  
-  
   <li> Para verificar nuestro máquina virtual nos vamos a 'ir al recurso'.
-    .
-. 
-    .    
-  </li>
-  <li> ![image](https://user-images.githubusercontent.com/99461145/174499892-37573b58-d0b2-4066-8fed-c2f4be27a0b1.png)
-    
-    
-    
- </li>
+
+ Le damos clic 
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499892-37573b58-d0b2-4066-8fed-c2f4be27a0b1.png) </li>
+  
 </ul>
 
 
