@@ -159,14 +159,24 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 . </li>
      <li> ![image](https://user-images.githubusercontent.com/99461145/174500357-b1760ca4-0e8d-4cec-9206-3887fa95756d.png) </li>
   
-  <li> Comenzamos a explorar nuestra Máquina Virtual para esto:
+  <li> Para eliminar nos pide ingresemos el nombre de nuestro recurso
 
- Le damos clic en conectar
+  Una vez ingresado le damos en Eliminar 
  
- Luego en RDP
 
 . </li>
-     <li> ![image](https://user-images.githubusercontent.com/99461145/174499990-db845cec-c53b-47a3-a592-c3c45fae101a.png) </li>
+     <li>![image](https://user-images.githubusercontent.com/99461145/174500404-dca0c7c8-2ef3-4463-a405-afdea8660b49.png) </li>
+  
+   <li> ¡NO OLVIDES ELIMINAR NetworkWatcherRG!
+
+  el cual se encarga de vigilar la red del grupo de recursos
+
+. </li>
+     <li>![image](https://user-images.githubusercontent.com/99461145/174500404-dca0c7c8-2ef3-4463-a405-afdea8660b49.png) </li>
   
 
 </ul>
+
+## FELICIDADES
+
+<p> Lo lograste, creaste tu primera maquina virtual en Azure, recuerda siempre es recomendable mantener limpia nuestra área de recursos.
