@@ -177,6 +177,6 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 
 </ul>
 
-## ¡FELICIDADESQ
+## ¡FELICIDADES!
 
 <p> ¡Lo lograste, creaste tu primera maquina virtual en Azure! recuerda siempre es recomendable mantener limpia nuestra área de recursos.
