@@ -41,10 +41,11 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 </ul>
 
 ## Pestaña: Management (Administración)
-<ul> <li> Dejamos las opciones predeterminadas de Azure </li>
-  
-  
-     <li> ![image](https://user-images.githubusercontent.com/99461145/174499389-93d13f49-e096-4e2f-b7bc-6628a1542c70.png) </li>
+<ul> <li> Mantenemos las opciones predeterminadas de Azure.
+
+.
+
+. </li> ![image](https://user-images.githubusercontent.com/99461145/174499389-93d13f49-e096-4e2f-b7bc-6628a1542c70.png) </li>
 </ul>
 
 ## Pestaña: Advancend (Opciones avanzadas)
