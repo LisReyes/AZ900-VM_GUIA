@@ -92,6 +92,9 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
     
     </li>
   <li> ![image](https://user-images.githubusercontent.com/99461145/174499892-37573b58-d0b2-4066-8fed-c2f4be27a0b1.png)
+    
+    
+    
  </li>
 </ul>
 
