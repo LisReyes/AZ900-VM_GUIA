@@ -34,4 +34,9 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 
 </ul>
 
+## Pestaña: Networking (Redes)
+<ul> <li> Automaticamente se le asigna una red virtual, mascara de subred y los puertos predeterminados </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499352-27161e49-70a9-44ef-9d2f-a09df9cf7181.png) </li>
+
+</ul>
 
