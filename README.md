@@ -91,6 +91,16 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
 . </li>
      <li> ![image](https://user-images.githubusercontent.com/99461145/174499892-37573b58-d0b2-4066-8fed-c2f4be27a0b1.png) </li>
   
+  <li> Comenzamos a explorar nuestra Máquina Virtual para esto:
+
+ Le damos clic en conectar
+ 
+ Luego en RDP
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499990-db845cec-c53b-47a3-a592-c3c45fae101a.png) </li>
+  
+
 </ul>
 
 
