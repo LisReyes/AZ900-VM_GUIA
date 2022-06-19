@@ -75,3 +75,12 @@ Agregamos otra etiqueta con Nombre:Area y Valor:Skilling
 Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
      <li> ![image](https://user-images.githubusercontent.com/99461145/174499511-4e92c3c4-ece3-4148-a16d-8a81887f3519.png) </li>
 </ul>
+
+## Pestaña: Review and Create (Revisar y Crear)
+<ul> <li> Revisamos que toda la información corresponda con la que nosotros asignamos.
+
+.
+
+. </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499829-49c0b4c5-5fe2-4cdd-bd73-4090ab3dcef3.png) </li>
+</ul>
