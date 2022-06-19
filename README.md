@@ -42,11 +42,15 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 
 ## Pestaña: Management (Administración)
 <ul> <li> Dejamos las opciones predeterminadas de Azure </li>
+  
+  
      <li> ![image](https://user-images.githubusercontent.com/99461145/174499389-93d13f49-e096-4e2f-b7bc-6628a1542c70.png) </li>
 </ul>
 
 ## Pestaña: Advancend (Opciones avanzadas)
 <ul> <li> Dejamos las opciones predeterminadas de Azure </li>
+  
+  
      <li> ![image](https://user-images.githubusercontent.com/99461145/174499457-9e2498d5-57f9-452c-9d77-486b639ce1da.png) </li>
 </ul>
 
@@ -58,5 +62,5 @@ Podemos observar que hay 12 recursos que se crean de manera automatica
 
 Agregamos otra etiqueta con Nombre:Area y Valor:Skilling
 Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
-     <li> ![image](https://user-images.githubusercontent.com/99461145/174499457-9e2498d5-57f9-452c-9d77-486b639ce1da.png) </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499511-4e92c3c4-ece3-4148-a16d-8a81887f3519.png) </li>
 </ul>
