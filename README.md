@@ -19,6 +19,6 @@ Está es una guía para crear el recurso de Máquina Virtual dentro de Azure.
   <li> Las opciones de disponibilidad son para tener respaldada nuestra información en otro centro de datos en caso de que el primero falle,pero debido a que solo es una prueba no los requerimos </li>
   <li> Mantenemos la seguridad en Estándar </li>
   <li> En imágen seleccionamos Windows Server 2019 Datacenter - Gen2. El cual sera nuestro sistema operativo con el que trabajara la VM </li>
-  <br> ![image](https://user-images.githubusercontent.com/99461145/174498532-fc4219a0-4c57-4ef4-85bb-15ecf1cb4466.png)
+  ![image](https://user-images.githubusercontent.com/99461145/174498532-fc4219a0-4c57-4ef4-85bb-15ecf1cb4466.png)
 
 
