@@ -120,7 +120,7 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
  
  
 
- </li>
+ .</li>
      <li> ![image](https://user-images.githubusercontent.com/99461145/174500190-40f61f2f-0832-4415-af0f-664d165c286d.png)</li>
      
      
@@ -130,6 +130,6 @@ Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
  
  
 
- </li>
+ .</li>
      <li>![image](https://user-images.githubusercontent.com/99461145/174500231-ed054225-dd85-45f2-8036-bcfa1847e8f4.png) </li>
 </ul>
