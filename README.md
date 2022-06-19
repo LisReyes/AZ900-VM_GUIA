@@ -25,9 +25,9 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   </ol>
    <br>![image](https://user-images.githubusercontent.com/99461145/174498561-85163f4c-005d-4526-9b85-0a516c2ec8d9.png)
    <br>![image](https://user-images.githubusercontent.com/99461145/174498620-80c5e17e-940a-4655-be3d-bd1daffe4096.png)
-   ![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)
-   ![image](https://user-images.githubusercontent.com/99461145/174498854-33a61456-e031-49d0-9145-1f53787505ce.png)
-
+   <br>![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)
+   <br>![image](https://user-images.githubusercontent.com/99461145/174498854-33a61456-e031-49d0-9145-1f53787505ce.png)
+## Pestaña: Disks (Discos)
 
 
 
