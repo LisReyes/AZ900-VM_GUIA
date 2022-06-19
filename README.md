@@ -29,6 +29,9 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 
 
 ## Pestaña: Disks(Discos)
-<ul> <li> Dejamos los datos predeterminado del disco duro </li></ul>
+<ul> <li> Dejamos los datos predeterminado del disco duro </li>
+     <li> ![image](https://user-images.githubusercontent.com/99461145/174499275-eae7581c-db84-41bc-acae-06025836f50e.png) </li>
+
+</ul>
 
 
