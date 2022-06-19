@@ -24,6 +24,9 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   ![image](https://user-images.githubusercontent.com/99461145/174498620-80c5e17e-940a-4655-be3d-bd1daffe4096.png)
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL! </li>
  ![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)
+  <li> Aceptamos para usar la licencia existente de Windows Server </li>
+  ![image](https://user-images.githubusercontent.com/99461145/174498854-33a61456-e031-49d0-9145-1f53787505ce.png)
+
 
 
 
