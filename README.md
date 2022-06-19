@@ -48,7 +48,13 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
 </ul>
 
 ## Pestaña: Advancend (Opciones avanzadas)
-<ul> <li> Dejamos las opciones predeterminadas de Azure </li>
+<ul> <li> Las etiquetas nos sirven para cuando hay muchas personas trabajando dentro de una organización, es importante saber quien esta subiendo que cambios.
+
+En el campo nombre es muy usual poner: CreatedBy y para el campo valor ponemos por quien fue creado.
+Podemos observar que hay 12 recursos que se crean de manera automatica
+
+Agregamos otra etiqueta con Nombre:Area y Valor:Skilling
+Finalizamos con una ultima, Nombre:Ciclo y Valor:7maEd </li>
           <li> ![image](https://user-images.githubusercontent.com/99461145/174499457-9e2498d5-57f9-452c-9d77-486b639ce1da.png) </li>
 </ul>
 
