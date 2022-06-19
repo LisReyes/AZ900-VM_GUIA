@@ -23,7 +23,7 @@ Le asignaremos los valores que deaseamos a nuestra Máquina Virtual <br>
   <li> Seleccionamos el tamaño de nuestra máquina virtual para eso podemos ir a la pestaña 'ver todos los tamaños' y decidir el que nos convenga, para esta situación me decidí por el 'DS2' que esta dentro de 'Tamaños de generaciones anteriores', asegurandonos que estemos en la región de Central US </li>
   ![image](https://user-images.githubusercontent.com/99461145/174498620-80c5e17e-940a-4655-be3d-bd1daffe4096.png)
   <li> Le asignamos un nombre de usuario y contraseña ¡RECUERDA QUE SON LOS DATOS PARA PODER CONECTARTE A TU MÁQUINA VIRTUAL! </li>
-  <img url = '![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)'>
+  <img url = "![image](https://user-images.githubusercontent.com/99461145/174498733-cc73c600-cfbe-40db-9a29-bb14a5dfe1bb.png)">
 
 
 
